@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Free Plan",
+    "descriptions": [
+      "Unlimited Bandwitch",
+      "Encrypted Connection",
+      "No Traffic Logs",
+      "Works on All Devices"
+    ],
+    "price": "Free"
+  },
+  {
+    "name": "Standard Plan",
+    "descriptions": [
+      "Unlimited Bandwitch",
+      "Encrypted Connection",
+      "No Traffic Logs",
+      "Works on All Devices",
+      "Connect Anyware"
+    ],
+    "price": "$9 / mo"
+  },
+  {
+    "name": "Premium Plan",
+    "descriptions": [
+      "Unlimited Bandwitch",
+      "Encrypted Connection",
+      "No Traffic Logs",
+      "Works on All Devices",
+      "Connect Anyware",
+      "Get New Features"
+    ],
+    "price": "$12 / mo"
+  }
+]
